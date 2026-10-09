@@ -17,15 +17,15 @@ I enjoy learning new technologies, solving problems, and turning ideas into prac
 
 **Machine Learning & AI**
 
-* Scikit-learn
+* Scikit-learn . opencv-python . nltk
 * TensorFlow · Keras
-* Machine Learning & Deep Learning
+* Machine Learning & Deep Learning & NLP & Computer Vision
 
 **Environment & Tools**
 
 * Linux · Ubuntu / Fedora
 * Git · GitHub
-* PyCharm
+* PyCharm . Visual Studio Code
 
 ---
 
